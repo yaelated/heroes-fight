@@ -73,12 +73,14 @@ Greedy algorithm:
 
 ## Структура проекта
 
+```text
 game/
-└─ heroes/
-├─ assets/
-└─ jars/
-├─ Heroes Battle-1.0.0.jar
-└─ obf.jar ← JAR с реализованными алгоритмами
+├─ heroes/
+│  ├─ assets/
+│  └─ jars/
+│     ├─ Heroes Battle-1.0.0.jar
+│     └─ obf.jar   ← JAR с реализованными алгоритмами
+```
 
 ## Запуск игры
 
